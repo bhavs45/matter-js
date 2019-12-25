@@ -25,7 +25,7 @@ Example.doublePendulum = function() {
         engine: engine,
         options: {
             width: 800,
-            height: 600,
+            height: 60,
             wireframes: false,
             background: '#0f0f13'
         }
